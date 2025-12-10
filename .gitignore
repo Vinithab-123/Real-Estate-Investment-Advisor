@@ -1,0 +1,15 @@
+# Ignore model files
+models/
+*.pkl
+
+# Ignore large data files
+india_housing_prices.csv
+
+# Ignore environment files
+__pycache__/
+.env
+.venv
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
