@@ -61,4 +61,9 @@ The application is built using Streamlit and requires the model files (`.pkl`) a
 * **Machine Learning:** Scikit-learn Pipelines, XGBoost (Regressor and Classifier)
 * **Deployment:** Streamlit
 * **Version Control:** Git
+ 
 * **Experiment Tracking:** MLflow
+
+* **Experiment Tracking:** MLflow (used in the notebook)
+
+ 
